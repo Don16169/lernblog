@@ -8,7 +8,7 @@ image = "bild4.jpg"
 description = "In diesem Blog geht es um meine freigestalterische Arbeit im Fach BG. Ich habe einen Pullover angemalt. Als Inspiration hatte ich verschiedene abstrakte Kunstwerke. Die Materialien, welche ich verwendet habe sind: Ein Pullover, verschiedene Pinsel, Textilfarbe und Wasser."
 footnotes = "Joao"
 +++
-> 1.   ![Als erster habe ich, wie auf diesem Bild zu sehen ist, die Vorderseite angemalt. Hier habe ich versucht eine Seite dunkler zu machen als die Andere. Dazu habe ich einen Übergang mit weisser Farbe verwendet. Hier lief noch nicht alles perfekt und ich musste noch ein bisschen das Gefühl dafür bekommen auf Stoff zu malen.](bild1.jpg "Die Vorderseite des Pullis")
+> ![Als erster habe ich, wie auf diesem Bild zu sehen ist, die Vorderseite angemalt. Hier habe ich versucht eine Seite dunkler zu machen als die Andere. Dazu habe ich einen Übergang mit weisser Farbe verwendet. Hier lief noch nicht alles perfekt und ich musste noch ein bisschen das Gefühl dafür bekommen auf Stoff zu malen.](bild1.jpg "Die Vorderseite des Pullis")
 >
 >    ![Im nächsten Schritt habe ich die Ärmel angemalt. Hier startet der Ärmel mit einer dunklen Farbe und wird immer heller, bis es Weiss wird. Hier hatte ich schon weniger Probleme mit dem malen und hatte es schon gut im Griff, mit dem Pinsel auf dem Stoff zu malen. Hier habe ich gemerkt, dass die Farbe nicht zu nass und nicht zu trocken sein darf. Denn im ersten Schritt habe ich ein bisschen viel ](bild2.jpg "Die Ärmel")
 >
